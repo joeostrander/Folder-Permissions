@@ -1,0 +1,33 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Folder Permissions\bin\Debug\Folder Permissions.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Folder Permissions\bin\Debug\Folder Permissions.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Folder Permissions\bin\Debug\Folder Permissions.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Folder Permissions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Folder Permissions\obj\Debug\Folder_Permissions.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Folder Permissions\obj\Debug\Folder_Permissions.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Folder Permissions\obj\Debug\Folder Permissions.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Folder Permissions\obj\Debug\Folder Permissions.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Folder Permissions\obj\Debug\Folder Permissions.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Folder Permissions\obj\Debug\Folder Permissions.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Folder Permissions\Folder Permissions\obj\Debug\Folder Permissions.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Folder Permissions\Folder Permissions\obj\Debug\Folder Permissions.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Folder Permissions\Folder Permissions\obj\Debug\Folder Permissions.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Folder Permissions\Folder Permissions\bin\Debug\Folder Permissions.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Folder Permissions\Folder Permissions\bin\Debug\Folder Permissions.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Folder Permissions\Folder Permissions\bin\Debug\Folder Permissions.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Folder Permissions\Folder Permissions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Folder Permissions\Folder Permissions\obj\Debug\Folder_Permissions.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Folder Permissions\Folder Permissions\obj\Debug\Folder_Permissions.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Folder Permissions\Folder Permissions\obj\Debug\Folder Permissions.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Folder Permissions\Folder Permissions\obj\Debug\Folder_Permissions.AboutBox1.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Folder Permissions\Folder Permissions\bin\Debug\Folder Permissions.exe.config
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Folder Permissions\Folder Permissions\obj\Debug\Folder Permissions.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Folder Permissions\Folder Permissions\obj\Debug\Folder Permissions.xml
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Folder Permissions\Folder Permissions\obj\Debug\Folder Permissions.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Folder Permissions\Folder Permissions\bin\Debug\Folder Permissions.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Folder Permissions\Folder Permissions\bin\Debug\Folder Permissions.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Folder Permissions\Folder Permissions\bin\Debug\Folder Permissions.xml
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Folder Permissions\Folder Permissions\obj\Debug\Folder Permissions.vbprojResolveAssemblyReference.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Folder Permissions\Folder Permissions\obj\Debug\Folder_Permissions.AboutBox1.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Folder Permissions\Folder Permissions\obj\Debug\Folder_Permissions.Form1.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Folder Permissions\Folder Permissions\obj\Debug\Folder_Permissions.Resources.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\Folder Permissions\Folder Permissions\obj\Debug\Folder Permissions.vbproj.GenerateResource.Cache
