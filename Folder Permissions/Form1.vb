@@ -127,6 +127,10 @@ Public Class Form1
             intMaxDepth = CInt(ComboBoxMaxDepth.Text)
         End If
 
+        If ComboBoxScanSubfolders.Text = "No" Then
+            intMaxDepth = 0
+        End If
+
         Try
             outfile = New StreamWriter(strOutputFile)
         Catch ex As Exception
